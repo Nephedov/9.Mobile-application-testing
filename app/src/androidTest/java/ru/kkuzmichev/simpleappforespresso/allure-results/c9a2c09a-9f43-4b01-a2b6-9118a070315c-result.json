@@ -1,7 +1,7 @@
 {
-    "name": "mainActivityTextTest",
-    "start": 1689423445810,
-    "stop": 1689423449470,
+    "name": "openGalleryTest",
+    "start": 1689621787922,
+    "stop": 1689621799091,
     "stage": "finished",
     "description": null,
     "descriptionHtml": null,
@@ -13,9 +13,9 @@
     ],
     "parameters": [
     ],
-    "uuid": "7fa70820-1f98-46ef-93a0-ba2d11c2255c",
-    "historyId": "a5c1ab07de4766605534ae2ba71c296b",
-    "fullName": "ru.kkuzmichev.simpleappforespresso.MainActivityTextTest.mainActivityTextTest",
+    "uuid": "c9a2c09a-9f43-4b01-a2b6-9118a070315c",
+    "historyId": "f4471322df7d270a616fac79dbe6ed70",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.MainActivityTextTest.openGalleryTest",
     "labels": [
         {
             "name": "package",
@@ -27,7 +27,7 @@
         },
         {
             "name": "testMethod",
-            "value": "mainActivityTextTest"
+            "value": "openGalleryTest"
         },
         {
             "name": "suite",
@@ -39,7 +39,7 @@
         },
         {
             "name": "thread",
-            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(350)"
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(405)"
         },
         {
             "name": "framework",
