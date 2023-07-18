@@ -90,5 +90,10 @@ public class MainActivityTextTest {
 
         ViewInteraction itemSeven = onView(allOf(withId(R.id.item_number), withText("7")));
         itemSeven.check(matches(withText("7")));
+
+        ViewInteraction recycleView = onView(withId(R.id.recycle_view));
+        recycleView.check(matches(isDisplayed()));
+        recycleView.check(CustomViewAssertions.isRecyclerView());
+        recycleView.check(matches(CustomViewMatcher.recyclerViewMatcher(10)));
     }
 }
