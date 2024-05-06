@@ -3,7 +3,7 @@
 ## Решения
 ### Задание 1
 * <a href="https://github.com/Nephedov/9.Mobile-application-testing/blob/main/app/build.gradle">build.gradle</a> - приложения с зависимостями для автотестов.
-* <a href="https://github.com/Nephedov/9.Mobile-application-testing/blob/main/app/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/MainActivityTextTest.java">MainActivityTextTest.java</a> - класс с автотестами.
+* <a href="https://github.com/Nephedov/9.Mobile-application-testing/blob/main/app/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/MainActivityTextTest.java">MainActivityTextTest.java</a> - класс с автотестами, с применением Espresso.
 * <a href="https://github.com/Nephedov/9.Mobile-application-testing/tree/main/app/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/allure-results">allure-results</a> - отчеты Allure с результатами прохождения
   автотестов.
   
