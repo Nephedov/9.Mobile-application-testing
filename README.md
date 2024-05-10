@@ -35,6 +35,10 @@
   <a href="https://github.com/Nephedov/9.Mobile-application-testing/blob/main/app/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/CustomViewAssertions.java">CustomViewAssertions.java</a>.
 
 
+---
+---
+
+
 ## Описание Задания 1. Реализация теста на проверку главного экрана
 1. Выгрузите [тестовый проект](https://github.com/netology-code/mqa-homeworks/tree/main/2.5%20Espresso/simpleAppForEspresso).
 2. Запустите тестовый проект в Android Studio.
